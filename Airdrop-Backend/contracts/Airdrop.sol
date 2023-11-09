@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract Airdrop{
-    bytes32 public merkleRoot = 0xd97bed8d334bdd5bd538a83c1d87812aa2e6faad4909742021491d62f12923b9;
+    bytes32 public merkleRoot = 0x7c56ea52358c2b726ae6201452f2fd3a36c0481658756195cec50f411a2e2af2;
     address tokenAddress;
 
     mapping(address => bool) claimed;

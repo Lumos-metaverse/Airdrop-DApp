@@ -53,7 +53,7 @@ const airdropContractAbi = [
 
 const  airdropContract = (provider) => {
   return new ethers.Contract(
-    "0xed1C878a3Ad903eADE5b1Bb4589dA471A75B67e2", // airdropContractAddress
+    "0x6f0c28206cF635C927D374d81931bB1eC047905c", // airdropContractAddress
     airdropContractAbi, // airdropContractABI
     provider
   );

@@ -9,9 +9,7 @@ const Web3 = require("web3");
 require("dotenv").config();
 
 function main() {
-  //const provider = new Web3.providers.HttpProvider(process.env.ALCHEMY_MUMBAI_API_KEY_URL);
-  // create web3 instance (no provider needed)
-  //const web3 = new Web3();
+
   let root;
 
   ///files for each airdrop
