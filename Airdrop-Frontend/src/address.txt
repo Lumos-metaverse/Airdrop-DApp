@@ -1,0 +1,2 @@
+Lumostoken contract is deployed to 0x89fC50F9C1C1999aC512F24e3f6Fb80Cfa54861a
+Airdrop contract is deployed to 0x87043c10fFBdA1F8b01099D4f8B278A959cBE12A

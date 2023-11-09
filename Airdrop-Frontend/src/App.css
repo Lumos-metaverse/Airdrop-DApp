@@ -1,0 +1,66 @@
+body {
+  background-color: #153439;
+  color: white;
+}
+
+.title {
+  color: rgb(255, 255, 255);
+  margin-bottom: 1 rem;
+}
+
+.box {
+  margin-top: 50px;
+}
+
+.panel {
+  margin-top: 2em;
+}
+
+.panel-heading {
+  background-color: rgb(5, 5, 5);
+  color: white;
+}
+
+.address-box {
+  padding: 3em;
+}
+
+.box .title {
+  color: #333;
+}
+
+.navbar {
+  background-color: rgb(5, 5, 5);
+}
+
+.navbar .navbar-item {
+  color: white;
+}
+
+.button{
+  background-color: #e46c09;
+}
+
+.connect-wallet span {
+  color: #E10859;
+}
+
+.connect-wallet:hover {
+  background-color: #e1e1e1 !important;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.airdrop-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: rgb(243, 6, 6);
+}
+
+.withdraw-success {
+  color: green;
+}
