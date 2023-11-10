@@ -3,9 +3,8 @@ const keccak256 = require("keccak256");
 const csv = require("csv-parser");
 const fs = require("fs");
 let utils = require("ethers");
-//const utils = ethers.utils;
 
-const Web3 = require("web3");
+
 require("dotenv").config();
 
 function main() {

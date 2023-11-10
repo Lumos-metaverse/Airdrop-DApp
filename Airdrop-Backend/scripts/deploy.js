@@ -1,9 +1,6 @@
 const { ethers } = require("hardhat");
 const helpers = require("@nomicfoundation/hardhat-network-helpers");
 const hre = require("hardhat");
-const data  = require("../gen_files/merkleproof.json")
-const userDetails =  require("../gen_files/claimlist.json");
-
 
 async function main() {
 
